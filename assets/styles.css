@@ -3584,6 +3584,16 @@ h5 a {
     line-height: 22px;
     margin-bottom: 3px
 }
+.exp1>li {
+    font-size: 15px;
+    color: #616161;
+    line-height: 22px;
+    margin-bottom: 3px
+}
+.exp1 span {
+    color: #00796b;
+    font-weight: 700;
+}
 
 .exp>li {
     position: relative;
